@@ -1,4 +1,3 @@
-Project Name
 
 #**Analysis**
 
@@ -22,7 +21,7 @@ Project Name
 
 ####Competitors
 
-1. Schoolgy
+**1.Schoolgy**
   
 * Pros 
        - Students catch up really fast even though they absent from school.
@@ -31,7 +30,7 @@ Project Name
 * Cons 
        - Customization is lacking from the Schoology site. 
 
-2. Study Blue
+**2.Study Blue**
 
 * Pros
        - StudyBlue has an iOS app and Android app for mobile users.
@@ -40,7 +39,7 @@ Project Name
 * Cons 
        - Users cannot study if they are offline, unless they pay. 
 
-3. MMUApp
+**3.MMUApp**
 
 * Pros
        - MMUApp has an iOS app and Android app for mobile users.
@@ -164,43 +163,43 @@ After revision, she saw an announcement about their exam venue will be change fr
 
 ###b. Requirements
 
-####Functional and data needs
+####Functional and Data Needs
 [![0010.png](https://s14.postimg.org/w4st88fsx/0010.png)](https://postimg.org/image/s8fhc8ut9/)
 [![0011.png](https://s22.postimg.org/jp0x1xhtd/0011.png)](https://postimg.org/image/gi6diaxd9/)
 [![0012.png](https://s18.postimg.org/d5u8vz1q1/0012.png)](https://postimg.org/image/876qhfxx1/)
 
-####user mental models
+####User Mental Models
 - Student can use their student ID number and password to login to all the website of MMU with their phone.
 
 
-####design imperatives
+####Design Imperatives
 - The application provides the features of MMLS which including notes, the contacts and details of lecturers and announcements.
 - The application provides the features of MMU Portal which including exam schedules.
 - The application provides the features of MMU website which including academic calendar. 
 
 
-####product vision
+####Product Vision
 - All students in MMU University visit MMU online system in one application with one single ID and password.
 
 
-####business requirements
-- Collected information
+####Business Requirements
+- Collected Information
    * Students want a playful campus environment.
    * Students are motivated the most by music and grades.
    * Students want to play games and watch dramas after finishing study.
    * Students prefer multifunctional application.
    
-- Key attributes of the product
+- Key Attributes of the Product
    * A customized serviced specifically for MMU students.  
    * Students access one platform and remember only one password.
    
-- Scope of the project
+- Scope of the Project
    * Let the users to communicate with MMU University online system in one application with single ID and password.
    
-- Phases of the project
+- Phases of the Project
    * With one single ID and password, students can save time when accessing to MMU University online system.
    * With one single ID and password, students remember only one password.
 
 
-####technology
+####Technology
 - Students can access to this application using mobile phone. 
