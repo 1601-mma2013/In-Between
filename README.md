@@ -39,14 +39,6 @@
 * Cons 
        - Users cannot study if they are offline, unless they pay. 
 
-**3.MMUApp**
-
-* Pros
-       - MMUApp has an iOS app and Android app for mobile users.
-       - MMUApp contains all the latest information specifically for MMU student.
-
-* Cons 
-       - Users are only for MMU students but not public users.
 
 ###c. Stakeholder Interviews 
 
@@ -184,9 +176,6 @@ After revision, she saw an announcement about their exam venue will be change fr
 
 ####Business Requirements
 - Collected Information
-   * Students want a playful campus environment.
-   * Students are motivated the most by music and grades.
-   * Students want to play games and watch dramas after finishing study.
    * Students prefer multifunctional application.
    
 - Key Attributes of the Product
