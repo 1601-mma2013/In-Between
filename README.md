@@ -192,3 +192,84 @@ After revision, she saw an announcement about their exam venue will be change fr
 
 ####Technology
 - Students can access to this application using mobile phone. 
+- 
+
+##**Design Framework**
+
+###a. Form factor, posture and input methods
+
+- Form factor : 
+    * This application is a mobile app.
+
+- Posture : 
+    * The mode of attention are palm and fingers.
+
+- Input methods : 
+    * This application is using keypad and touch screen.
+
+###b. Functional and data elements
+
+- Fundamental subjects : 
+   * Login system with one ID and one password.
+
+- Relationship between each other :   
+    * After login to this mobile application, users can access to all the MMU online systems with multiple features.         
+                                                                                    
+- Functional elements based on functional requirements: 
+    * Users can download notes, check exam schedule, contact lecturers, check for announcement and academic calender.
+
+- Accomplish user’s goals
+    * Users can save their time as they only remember one password to access to MMU online systems.
+
+- Best fit the design principles
+    * One screen with one main action. This is easier to use without confusing the users.
+    
+- Fit within technology
+    * This application is done by are using mobile phone as the technology.
+
+- Differentiation of interaction from competitors
+    * This application is specifically for MMU students by providing the latest information.  Users can download notes, check exam schedule, contact lecturers, check for announcement and academic calender.                    
+    * Users can study if they are offline, without paying extra. 
+
+###c. Functional groups and hierarchy
+
+- Interaction patterns and principles
+    * This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
+    * This application provide learnable interaction design, which users learn the functions.
+    * This application provide consistent interaction design. Users able to focus on the context when the elements, behaviours and styles are consistent. 
+
+- Select primary views (screens or states)
+    * By focusing user’s goal, the main view is the login screen.
+
+
+###d. Interaction framework Sketch
+
+
+###e. Key path scenarios
+
+1. Susan actives MMU Apps with her Android phone.  She key-in her student ID number at the first typing slot, ‘username’ and password at the second typing slot, ‘password’.  She clicks ‘Login’ button after she key-in the required information.  After she clicked the ‘Login’ button, there is the home page of the MMU Apps which are contained all the online system of her university, MMU.
+
+2. Susan clicks ‘Camsys’ button to go to the her personal Camsys account system to find her exam timetable.  After that, she clicks the ‘Exam Timetable’ button and clicks ‘Download’ button to download her exam timetable in her phone.
+
+3. Susan wants to do study of her major course  after she checked her exam timetable.  She clicks the ‘return’ button at the bottom of her phone twice to go back to the home page.  She clicks ‘MMLS’ button, there are the courses that she registered.  She clicks on her major course which is ‘MBM 10 - Business Management’ button.  She want to download the note of her major course.  So, she clicks ‘Note’ button and clicks ‘Download All’ to download all the notes at once.  
+
+4. Susan wants to check her academic calendar for plans her vacation with her friends.  She clicks twice of the ‘return’ button from the page of ‘Note’.  She clicks ‘Website’ button at the home page of the MMU Apps.  After that, she clicks ‘Community’ button and clicks ‘Academic Calendar’ afterward.  She checks her trimester break with the academic calendar and decide the date of her vacation immediately.  
+
+5. Before she is going to sleep, she click the power button which are placed at the top right of the interface of the MMU Apps to logout her MMU Apps’s personal account.          
+
+
+
+
+###f. Design with validation scenarios
+
+- Alternative Scenarios
+
+Alex is an undergrad computer science student in Multimedia University, Cyberjaya.  He is a forgetful student.  He does like to use MMU Apps for assist his academic study because of the one single ID and password login system.  
+
+- Necessary-use Scenarios
+
+Alex is an undergrad computer science student in Multimedia University, Cyberjaya.  He is a forgetful student.  He use the ‘forget your password?’ link to find his password frequently.     
+
+- Edge-case Use Scenarios
+
+Susan like to logout her MMU Apps account everyday for protect her private.  She need a ‘Remember ID number’ button to help her to login her account easily.
