@@ -243,7 +243,7 @@ After revision, she saw an announcement about their exam venue will be change fr
 
 
 ###d. Interaction framework Sketch
-
+[![Sketches Interaction.jpg](http://s15.postimg.org/ib13mlm57/Sketches_Interaction.jpg)](http://postimg.org/image/m7efil74n/)
 
 ###e. Key path scenarios
 
