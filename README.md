@@ -232,6 +232,7 @@ After revision, she saw an announcement about their exam venue will be change fr
     * Users can study if they are offline, without paying extra. 
 
 ###c. Functional groups and hierarchy
+[![14453980_1189020254492431_323453128_o.jpg](http://s15.postimg.org/qb13zcarf/14453980_1189020254492431_323453128_o.jpg)](http://postimg.org/image/6gf2d7vjr/)
 
 - Interaction patterns and principles
     * This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap. 
