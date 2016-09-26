@@ -194,7 +194,6 @@ After revision, she saw an announcement about their exam venue will be change fr
 - Single sign-on (SSO) is used as a session and user authentication service for  users to use one set of login credentials to access multiple applications. It interacts between two communication end points that occur during the span of a single connection. 
 Whenever the user goes to a domain that requires authentication, he or she is redirected to the authentication domain. As the user is already logged-in at that domain, he or she can be immediately redirected to the original domain with the necessary authentication token.
 
-- 
 
 ##**Design Framework**
 
