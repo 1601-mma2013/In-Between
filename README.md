@@ -266,7 +266,7 @@ Whenever the user goes to a domain that requires authentication, he or she is re
 
 - Alternative Scenarios
 
-Alex is an undergrad computer science student in Multimedia University, Cyberjaya.  He is a forgetful student.  He does like to use MMU Apps for assist his academic study because of the one single ID and password login system.  
+Susan would like to check her exam timetable. She is too busy doing her revision and she uses S Voice to access into the MMU Apps to save time. 
 
 - Necessary-use Scenarios
 
