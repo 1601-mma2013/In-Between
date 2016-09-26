@@ -203,10 +203,10 @@ Whenever the user goes to a domain that requires authentication, he or she is re
     * This application is a mobile app.
 
 - Posture : 
-    * The mode of attention are palm and fingers.
+    * The mode of attention are voice,palm and fingers.
 
 - Input methods : 
-    * This application is using keypad and touch screen.
+    * This application is using voices,keypad and touch screen.
 
 ###b. Functional and data elements
 
