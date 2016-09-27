@@ -246,7 +246,7 @@ Whenever the user goes to a domain that requires authentication, he or she is re
 
 ###d. Interaction framework Sketch
 [![Sketches Interaction.jpg](http://s15.postimg.org/ib13mlm57/Sketches_Interaction.jpg)](http://postimg.org/image/m7efil74n/)
-
+[![SketchesInteraction.jpg](https://s17.postimg.org/j0rdjvcfj/Sketches_Interaction.jpg)](https://postimg.org/image/h8yeoyt2j/)
 ###e. Key path scenarios
 
 1. Susan actives MMU Apps with her Android phone.  She key-in her student ID number at the first typing slot, ‘username’ and password at the second typing slot, ‘password’.  She clicks ‘Login’ button after she key-in the required information.  After she clicked the ‘Login’ button, there is the home page of the MMU Apps which are contained all the online system of her university, MMU.
