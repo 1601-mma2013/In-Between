@@ -1,6 +1,8 @@
 
 #**Analysis**
 
+You're required to add your title and team-member information. 
+
 ##**Research**
 
 ###a. Scope
